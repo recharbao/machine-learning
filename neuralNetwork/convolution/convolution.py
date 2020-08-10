@@ -10,7 +10,7 @@ def convolution(data, filt, bias, step=1):
     out_dim = int((dim_data - dim_filt)/step)+1 # 输出的维度
     
     
-    assert depth_data ==depth_filt, "维度不匹配"
+    assert depth_data == depth_filt, "维度不匹配" 
     
     out = np.zeros((num,out_dim,out_dim)) 
     
