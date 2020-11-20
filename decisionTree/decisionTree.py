@@ -23,7 +23,7 @@ class ID3(object):
                         ['short', 'thick', 'no', 'man'],
                         ['long', 'thick', 'yes', 'man'],
                         ['short', 'thin', 'no', 'man'],
-                        ['long', 'thin', 'yes', 'woman'],
+                        ['long', 'thin', 'yes', 'woman'], 
                         ['long', 'medium', 'yes', 'woman'],
                         ['long', 'thick', 'yes', 'woman'],
                         ['short', 'thin', 'yes', 'woman'],
